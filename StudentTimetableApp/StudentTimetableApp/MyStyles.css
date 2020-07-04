@@ -1,0 +1,46 @@
+﻿
+^contentpage {
+    background-color: lightgoldenrodyellow;
+}
+
+#listView {
+    background-color: lightyellow;
+}
+
+stacklayout {
+    margin: 3;
+}
+flexlayout {
+    margin: 15;
+    align-content:center;
+}
+
+label {
+    color: black;
+}
+
+button {
+    background-color: lightcoral;
+    align-content: center;
+    font-weight: bold;
+    font-size: large;
+    color: darkblue;
+}
+
+.mainPageTitle {
+    background-color: lightcyan;
+    font-style: bold;
+    font-size: medium;
+}
+
+.mainPageSubtitle {
+    background-color: azure;
+    margin-top: 5;
+}
+
+.detailPageTitle {
+    background-color: lightcyan;
+    font-style: bold;
+    font-size: medium;
+    text-align: center;
+}
